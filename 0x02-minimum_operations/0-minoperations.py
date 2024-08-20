@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""0-minoperations.py"""
+
+
 def minOperations(n: int) -> int:
     """
     Calculate the minimum number of operations needed
